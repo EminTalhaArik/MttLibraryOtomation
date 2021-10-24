@@ -1,0 +1,88 @@
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\UI_Library_Otomation.exe.config
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\UI_Library_Otomation.exe
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\UI_Library_Otomation.pdb
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.csprojAssemblyReference.cache
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.Properties.Resources.resources
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.csproj.GenerateResource.cache
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.csproj.CoreCompileInputs.cache
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.exe
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.pdb
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\BouncyCastle.Crypto.dll
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\Google.Protobuf.dll
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\K4os.Compression.LZ4.dll
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\K4os.Hash.xxHash.dll
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\MySql.Data.dll
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\MySqlConnector.dll
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Buffers.dll
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Memory.dll
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Numerics.Vectors.dll
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\Ubiety.Dns.Core.dll
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\Zstandard.Net.dll
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\Google.Protobuf.pdb
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\Google.Protobuf.xml
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\K4os.Compression.LZ4.xml
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\K4os.Hash.xxHash.xml
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\MySql.Data.xml
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\MySqlConnector.xml
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Buffers.xml
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Memory.xml
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Numerics.Vectors.xml
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.csproj.CopyComplete
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.Forms.MainForm.resources
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.Forms.AddBookForm.resources
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.Forms.ServiceManagementForm.resources
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.Forms.StudentManagementForm.resources
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.LoginForm.resources
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.Forms.BookListForm.resources
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.Forms.ServiceListForm.resources
+D:\Belgeler\Projeler\Yazilim_Projeleri\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.Forms.StudentListForm.resources
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\UI_Library_Otomation.exe.config
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\UI_Library_Otomation.exe
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\UI_Library_Otomation.pdb
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\BouncyCastle.Crypto.dll
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\Google.Protobuf.dll
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\K4os.Compression.LZ4.dll
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\K4os.Hash.xxHash.dll
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\MySql.Data.dll
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\MySqlConnector.dll
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Buffers.dll
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Memory.dll
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Numerics.Vectors.dll
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\Ubiety.Dns.Core.dll
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\Zstandard.Net.dll
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\Google.Protobuf.pdb
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\Google.Protobuf.xml
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\K4os.Compression.LZ4.xml
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\K4os.Hash.xxHash.xml
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\MySql.Data.xml
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\MySqlConnector.xml
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Buffers.xml
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Memory.xml
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Numerics.Vectors.xml
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.csprojAssemblyReference.cache
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.Forms.AddBookForm.resources
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.Forms.BookListForm.resources
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.LoginForm.resources
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.Forms.MainForm.resources
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.Forms.ServiceListForm.resources
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.Forms.ServiceManagementForm.resources
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.Forms.StudentListForm.resources
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.Forms.StudentManagementForm.resources
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.Properties.Resources.resources
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.csproj.GenerateResource.cache
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.csproj.CoreCompileInputs.cache
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.csproj.CopyComplete
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.exe
+E:\Giriş\Dosyalar\Kütüphane Otomasyonu\MTT_Library_Otomation\UI_Library_Otomation\obj\Debug\UI_Library_Otomation.pdb
